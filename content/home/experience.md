@@ -22,33 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Machine Learning Intern
+
+  - title: Research Assistant
+    company: Jagiellonian University
+    company_url: 'https://en.uj.edu.pl/'
+    company_logo: jagiellonian_university
+    location: Cracow
+    date_start: '2020-04-01'
+    date_end: '2020-09-01'
+    description: |2-
+        Responsibilities included:
+        
+        * Conducting research
+        * Conducting classes (NLP, Probability)
+
+  - title: Deep Learning Specialist
     company: Applica.ai
-    company_url: 'https://codilime.com/'
+    company_url: 'https://applica.ai/'
     company_logo: applica
-    location: Warsaw
-    date_start: '2017-07-01'
-    date_end: '2017-09-01'
+    location: Cracow
+    date_start: '2018-09-01'
+    date_end: '2020-08-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Conducting research on deep contextualized language models
+        * Improving semantic search of documents
+        * Implementing Deep Learning models that comprehend documents and answer questions about it
         
-  - title: Machine Learning Intern
+  - title: Deep Learning Engineer
     company: diCELLa
-    company_url: 'https://codilime.com/'
+    company_url: 'https://dicella.com/page/main/'
     company_logo: dicella
-    location: Warsaw
-    date_start: '2017-07-01'
-    date_end: '2017-09-01'
+    location: Cracow
+    date_start: '2018-07-01'
+    date_end: '2018-09-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Using SOTA instance segmentation models on medical images
+        * Tasks included segmenting keratinocytes and reticulocytes
         
   - title: Machine Learning Intern
     company: CodiLime
@@ -56,23 +69,13 @@ experience:
     company_logo: codilime
     location: Warsaw
     date_start: '2017-07-01'
-    date_end: '2017-09-01'
+    date_end: '2017-10-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Computer Vision - training SOTA object detection models
+        * Reinforcement Learning - training quadrotor in simulation, testing in the real world
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
 design:
   columns: '2'
 ---
