@@ -23,6 +23,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Machine Learning Intern
+    company: Applica.ai
+    company_url: 'https://codilime.com/'
+    company_logo: applica
+    location: Warsaw
+    date_start: '2017-07-01'
+    date_end: '2017-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Machine Learning Intern
+    company: diCELLa
+    company_url: 'https://codilime.com/'
+    company_logo: dicella
+    location: Warsaw
+    date_start: '2017-07-01'
+    date_end: '2017-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Machine Learning Intern
     company: CodiLime
     company_url: 'https://codilime.com/'
     company_logo: codilime
