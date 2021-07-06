@@ -76,4 +76,4 @@ highlight_name: false
 
 PhD student interested in applying deep learning in practice. My current research revolves around the topic of breast cancer detection. Supervised by prof. Krzysztof Geras and dr. Stanisław Jastrzębski.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
