@@ -27,14 +27,17 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Jagiellonian University (col. with New York University)
+    year: 2017-
+  - course: Erasmus+ in Artificial Intelligence
+    institution: Universitat Politècnica de Catalunya
+    year: 2015-2017
+  - course: MS in Applied Mathematics
+    institution: Jagiellonian University
+    year: 2015-2017
+  - course: BSc in Mathematics
+    institution: Jagiellonian University
+    year: 2012-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
