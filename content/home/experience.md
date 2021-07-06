@@ -34,7 +34,7 @@ experience:
         Responsibilities included:
         
         * Conducting research
-        * Conducting classes (NLP, Probability)
+        * Conducting classes (NLP, probability and statistics)
 
   - title: Deep Learning Specialist
     company: Applica.ai
@@ -48,7 +48,7 @@ experience:
         
         * Conducting research on deep contextualized language models
         * Improving semantic search of documents
-        * Implementing Deep Learning models that comprehend documents and answer questions about it
+        * Implementing deep learning models that comprehend documents and answer questions about it
         
   - title: Deep Learning Engineer
     company: diCELLa
@@ -73,8 +73,8 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Computer Vision - training SOTA object detection models
-        * Reinforcement Learning - training quadrotor in simulation, testing in the real world
+        * CV: training SOTA object detection models
+        * RL: training quadrotor in simulation, testing in the real world
         
 design:
   columns: '2'
