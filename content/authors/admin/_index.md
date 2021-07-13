@@ -31,7 +31,7 @@ education:
     year: 2017-
   - course: Erasmus+ in Artificial Intelligence
     institution: Universitat Politècnica de Catalunya
-    year: 2015-2017
+    year: 2016-2017
   - course: MS in Applied Mathematics
     institution: Jagiellonian University
     year: 2015-2017
