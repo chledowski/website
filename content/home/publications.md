@@ -24,9 +24,9 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    category: 'xxx'
+    publication_type: 'yyy'
+    author: 'Jakub'
     exclude_featured: true
 design:
   # Choose a view for the listings:
