@@ -22,12 +22,12 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: 'xxx'
-    publication_type: 'yyy'
-    author: 'Jakub'
-    exclude_featured: true
+  #filters:
+  #  tag: ''
+  #  category: 'xxx'
+  #  publication_type: 'yyy'
+  #  author: 'Jakub'
+  #  exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
