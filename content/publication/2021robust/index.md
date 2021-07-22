@@ -1,24 +1,27 @@
 ---
-title: "From Dataset Recycling to Multi-Property Extraction and Beyond"
+title: "Robust Learning-Augmented Caching: An Experimental Study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tomasz Dwojak
-- Michał Pietruszka
-- Łukasz Borchmann
 - admin
-- Filip Graliński
+- Adam Polak
+- Bartosz Szabucki
+- Konrad Żołna
 
 # Author notes (optional)
-# author_notes:
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2020-11-06T00:00:00Z"
-doi: "10.18653/v1/2020.conll-1.52"
+date: "2021-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +30,10 @@ doi: "10.18653/v1/2020.conll-1.52"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIGNLL Conference on Computational Natural Language Learning*
-publication_short: In *CONLL*
+publication: In *International Conference on Machine Learning*
+publication_short: In *ICML*
 
-abstract: This paper investigates various Transformer architectures on the WikiReading Information Extraction and Machine Reading Comprehension dataset. The proposed dual-source model outperforms the current state-of-the-art by a large margin. Next, we introduce WikiReading Recycled - a newly developed public dataset, and the task of multiple-property extraction. It uses the same data as WikiReading but does not inherit its predecessor’s identified disadvantages. In addition, we provide a human-annotated test set with diagnostic subsets for a detailed analysis of model performance.
+abstract: Effective caching is crucial for performance of modern-day computing systems. A key optimization problem arising in caching–which item to evict to make room for a new item–cannot be optimally solved without knowing the future. There are many classical approximation algorithms for this problem, but more recently researchers started to successfully apply machine learning to decide what to evict by discovering implicit input patterns and predicting the future. While machine learning typically does not provide any worst-case guarantees, the new field of learning-augmented algorithms proposes solutions which leverage classical online caching algorithms to make the machine-learned predictors robust. We are the first to comprehensively evaluate these learning-augmented algorithms on real-world caching datasets and state-of-the-art machine-learned predictors. We show that a straightforward method–blindly following either a predictor or a classical robust algorithm, and switching whenever one becomes worse than the other–has only a low overhead over a well-performing predictor, while competing with classical methods when the coupled predictor fails, thus providing a cheap worst-case insurance.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,9 +48,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/2020.conll-1.52.pdf'
-url_code: 'https://github.com/applicaai/multi-property-extraction'
-url_dataset: ''
+url_pdf: 'http://proceedings.mlr.press/v139/chledowski21a/chledowski21a.pdf'
+url_code: 'https://github.com/chledowski/ml_caching_with_guarantees'
+url_dataset: 'https://github.com/chledowski/Robust-Learning-Augmented-Caching-An-Experimental-Study-Datasets'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -57,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
