@@ -59,6 +59,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jakub-ch%C5%82%C4%99dowski-687642134/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCrAMj-Jsm1XaoQbcojpRdRQ
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
