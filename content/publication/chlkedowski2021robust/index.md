@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'http://proceedings.mlr.press/v139/chledowski21a/chledowski21a.pdf'
 url_code: 'https://github.com/chledowski/ml_caching_with_guarantees'
 url_dataset: 'https://github.com/chledowski/Robust-Learning-Augmented-Caching-An-Experimental-Study-Datasets'
-url_poster: ''
+url_poster: 'https://imgur.com/SxpPvcX'
 url_project: ''
 url_slides: ''
 url_source: ''
