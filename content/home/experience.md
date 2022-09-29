@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Computer Vision Engineer
+    company: Neurolabs
+    company_url: 'https://neurolabs.ai/'
+    company_logo: nlb
+    location: Edinburgh
+    date_start: '2021-12-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Implementing Deep Metric Learning approach to create a retail object detector
+        * Using synthetic data & domain adaptation to improve performance with a small amount of real data
+        * Staying up to date with the latest research, implementing most useful advancements
+        * Deploying our solution with the use of FastAPI, PostgresSQL, GCP, Pinecone & Docker
+
   - title: Research Assistant
     company: Jagiellonian University
     company_url: 'https://en.uj.edu.pl/'
